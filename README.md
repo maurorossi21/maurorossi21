@@ -1,11 +1,11 @@
 **💫 About Me:**
 
-Hello! I’m Mauro, a back-end developer and cybersecurity enthusiast currently studying to become a back-end developer. I'm committed to building a strong foundation in Python as I work towards mastering back-end technologies.
+**Hello! I’m Mauro, a back-end developer and cybersecurity enthusiast currently studying to become a back-end developer. I'm committed to building a strong foundation in Python as I work towards mastering back-end technologies.**
 
 - **My goal is to learn Python, Django, FastAPI, SQL, and finally Golang within 2 years.**
 
-- **Q1:** Then, I want to pursue cybersecurity certifications like CompTIA Security+ and others to strengthen my expertise.  
-- **Q2:** I am committed to advancing my back-end development proficiency through continued work with Python and Go.  
+- **Q1:** **Then, I want to pursue cybersecurity certifications like CompTIA Security+ and others to strengthen my expertise.**
+- **Q2:** I am committed to advancing my back-end development proficiency through continued work with Python and Go.**
 - **Feel free to check out my progress and projects here on GitHub :)**
 
 ## 🌐 Socials:
