@@ -8,7 +8,7 @@
 # 💻 Tech Stack:
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
 [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com)
-[![SQL](https://skillicons.dev/icons?i=sql)](https://www.iso.org/standard/63555.html)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
 [![Go](https://skillicons.dev/icons?i=go)](https://golang.org)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
