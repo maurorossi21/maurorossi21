@@ -1,6 +1,12 @@
-# 💫 About Me:
-- Hello! I’m Mauro, a back end developer/cybersecurity enthusiast currently studying to become a back end<br> developer. I'm committed to building a strong foundation in Python as I work<br> towards mastering back-end technologies.<br><br>- My goal is to learn Python, Django, Fast Api,<br> Sql, and finally Golang within 2 years.<br><br>- Q1: then I want to pursue cybersecurity certifications like CompTIA Security+ and others to strengthen my expertise. <br>- Q2: I am committed to advancing my back-end development proficiency through continued work with Python and Go. <br>- Feel free to check out my progress and projects here on GitHub :)<br>
+**💫 About Me:**
 
+Hello! I’m Mauro, a back-end developer and cybersecurity enthusiast currently studying to become a back-end developer. I'm committed to building a strong foundation in Python as I work towards mastering back-end technologies.
+
+- **My goal is to learn Python, Django, FastAPI, SQL, and finally Golang within 2 years.**
+
+- **Q1:** Then, I want to pursue cybersecurity certifications like CompTIA Security+ and others to strengthen my expertise.  
+- **Q2:** I am committed to advancing my back-end development proficiency through continued work with Python and Go.  
+- **Feel free to check out my progress and projects here on GitHub :)**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/letuga21)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@khabibzzz__) 
