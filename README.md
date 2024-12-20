@@ -6,14 +6,15 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/letuga21)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@khabibzzz__) 
 
 # 💻 Tech Stack:
-![Python Badge](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)
-![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
-![SQL Badge](https://img.shields.io/badge/SQL-000?logo=MySQL&logoColor=4479A1&style=for-the-badge) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux Badge](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&style=for-the-badge) ![Bash Badge](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-
-
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
+[![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com)
+[![Go](https://skillicons.dev/icons?i=go)](https://golang.org)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash)
 
 
 # 📊 GitHub Stats:
