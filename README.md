@@ -7,7 +7,8 @@
 
 # 💻 Tech Stack:
 ![Python Badge](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge) ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
-![SQL Badge](https://img.shields.io/badge/SQL-000?logo=MySQL&logoColor=4479A1&style=for-the-badge) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![SQL Badge](https://img.shields.io/badge/SQL-000?logo=MySQL&logoColor=4479A1&style=for-the-badge) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux Badge](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&style=for-the-badge)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=maurorossi21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maurorossi21&theme=dark&hide_border=false)<br/>
