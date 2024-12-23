@@ -1,25 +1,28 @@
 **💫 About Me:**
 
-**Hello! I’m Mauro, a back-end developer and cybersecurity enthusiast currently studying to become a back-end developer. I'm committed to building a strong foundation in Python as I work towards mastering back-end technologies.**
+**Hello! I’m Mauro, a full stack developer and cybersecurity enthusiast currently focusing on back-end development. I'm committed to building a strong foundation in Node,js/Typescript as I work towards mastering back-end technologies.**
 
-- **My goal is to learn Python, Django, FastAPI, SQL, and finally Golang within 2 years.**
+- **My goal is to learn Javascript/Typescript, React, Node.js, Express.js and SQL**
 
 - **Q1:** **Then, I want to pursue cybersecurity certifications like CompTIA Security+ and others to strengthen my expertise.**
-- **Q2:** **I am committed to advancing my back-end development proficiency through continued work with Python and Go.**
+- **Q2:** **I am committed to advancing my back-end development proficiency through continued work with Typescript/Node.js.**
 - **Feel free to check out my progress and projects here on GitHub :)**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/letuga21)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@khabibzzz__) 
 
 # 💻 Tech Stack:
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
-[![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
-[![Go](https://skillicons.dev/icons?i=go)](https://golang.org)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org)
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)
+[![Node.js](https://skillicons.dev/icons?i=node)](https://nodejs.org)
+[![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com)
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org)
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash)
 
