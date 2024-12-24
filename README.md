@@ -14,7 +14,7 @@
 # 💻 Tech Stack:
 
 [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org)
-[![Node.js](https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg)](https://nodejs.org)
+[![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=node.js&logoColor=white&style=for-the-badge)](https://nodejs.org)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
 [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)
 [![Express.js](https://skillicons.dev/icons?i=express&color=gray)](https://expressjs.com)
