@@ -13,8 +13,8 @@
 
 # 💻 Tech Stack:
 
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
 [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)
 [![Node.js](https://skillicons.dev/icons?i=node&color=green)](https://nodejs.org)
 [![Express.js](https://skillicons.dev/icons?i=express&color=gray)](https://expressjs.com)
