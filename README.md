@@ -21,7 +21,7 @@
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org)
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash)
