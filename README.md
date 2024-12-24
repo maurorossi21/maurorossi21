@@ -14,10 +14,8 @@
 # 💻 Tech Stack:
 
 [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
 [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)
-[![Node.js](https://skillicons.dev/icons?i=node&color=green)](https://nodejs.org)
 [![Express.js](https://skillicons.dev/icons?i=express&color=gray)](https://expressjs.com)
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
