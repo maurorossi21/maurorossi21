@@ -1,6 +1,6 @@
 **💫 About Me:**
 
-**Hello! I’m Mauro, future full stack developer and cybersecurity enthusiast currently focusing on back-end development. I'm committed to building a strong foundation in Node,js/Typescript as I work towards mastering back-end technologies.**
+**Hello! I’m Mauro, future full stack developer and cybersecurity enthusiast currently focusing on back-end development. I'm committed to building a strong foundation in Python/Django as I work towards mastering back-end technologies.**
 
 - **My goal is to learn Javascript, React, Python, Django and SQL**
 
