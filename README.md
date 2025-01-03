@@ -12,18 +12,16 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/letuga21)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@khabibzzz__) 
 
 # 💻 Tech Stack:
-
-[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org)
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
+[![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
 [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)
-[![Express.js](https://skillicons.dev/icons?i=express&color=gray)](https://expressjs.com)
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org)
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash)
 
