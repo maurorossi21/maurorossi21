@@ -2,10 +2,10 @@
 
 **Hello! I’m Mauro, future full stack developer and cybersecurity enthusiast currently focusing on back-end development. I'm committed to building a strong foundation in Node,js/Typescript as I work towards mastering back-end technologies.**
 
-- **My goal is to learn Javascript/Typescript, React, Node.js, Express.js and SQL**
+- **My goal is to learn Javascript, React, Python, Django and SQL**
 
 - **Q1:** **Then, I want to pursue cybersecurity certifications like CompTIA Security+ and others to strengthen my expertise.**
-- **Q2:** **I am committed to advancing my back-end development proficiency through continued work with Typescript/Node.js.**
+- **Q2:** **I am committed to advancing my back-end development proficiency through continued work with python/django.**
 - **Feel free to check out my progress and projects here on GitHub :)**
 
 ## 🌐 Socials:
