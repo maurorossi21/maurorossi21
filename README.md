@@ -14,16 +14,16 @@
 # 💻 Tech Stack:
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
 [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash)
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
-[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org)
-[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash)
+
 
 
 # 📊 GitHub Stats:
