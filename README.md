@@ -1,6 +1,6 @@
 **💫 About Me:**
 
-**Hello! I’m Mauro, future Pentester and Back end enthusiast currently focusing on back-end development. I'm committed to building a strong foundation in CyberSecurity as I work towards mastering back-end development.**
+**Hello! I’m Mauro, a future Pentester and Back end enthusiast currently focusing on back-end development. I'm committed to building a strong foundation in CyberSecurity as I work towards mastering back-end development.**
 
 - **My goal is to be comfortable with Pentesting, Python, Linux, Bash within 2 years.**
 
