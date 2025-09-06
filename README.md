@@ -1,11 +1,8 @@
 **💫 About Me:**
 
-**Hello! I’m Mauro, a future Pentester and Back end enthusiast currently focusing on back-end development. I'm committed to building a strong foundation in CyberSecurity as I work towards mastering back-end development.**
+**Hello! I’m Mauro, a future Pentester. I'm committed to building a strong foundation in CyberSecurity.**
 
-- **My goal is to be comfortable with Pentesting, Python, Linux, Bash within 2 years.**
-
-- **Q1:** **Then, I want to pursue cybersecurity certifications like CompTIA Security+,PJPT, OSCP, AWS Security and others to strengthen my expertise.**
-- **Q2:** **I am also committed to advancing my back-end development proficiency through continued work with python/django.**
+- **Q1:** **Then, I want to pursue cybersecurity certifications like CompTIA Security+,PJPT, OSCP to strengthen my expertise.**
 - **Feel free to check out my progress and projects here on GitHub :)**
 
 ## 🌐 Socials:
